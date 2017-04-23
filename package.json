@@ -1,21 +1,21 @@
 {
   "name": "angular-dc",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "angular-dc",
   "keywords": [
     "angular",
     "dc"
   ],
-  "homepage": "https://github.com/TomNeyland/angular-dc",
-  "bugs": "https://github.com/TomNeyland/angular-dc/issues",
+  "homepage": "https://github.com/fam1/angular-dc",
+  "bugs": "https://github.com/fam1/angular-dc/issues",
   "author": {
-    "name": "Tom Neyland",
+    "name": "",
     "email": "",
-    "url": "https://github.com/TomNeyland"
+    "url": "https://github.com/fam1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TomNeyland/angular-dc.git"
+    "url": "https://github.com/fam1/angular-dc.git"
   },
   "licenses": [
     {
